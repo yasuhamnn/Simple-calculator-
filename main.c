@@ -87,5 +87,5 @@ int main()
     }
     return 0;
     
-    printf("\n\n\nPROGRAMMER: PELAYO, JOHN MICHAEL S.             BSIT-1C");
+    printf("\n\n\nPROGRAMMER:ROSEJANE MAHUSAY");
 }
